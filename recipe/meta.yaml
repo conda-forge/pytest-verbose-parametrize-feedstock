@@ -1,5 +1,5 @@
 {% set name = "pytest-verbose-parametrize" %}
-{% set version = "1.7.0" %}
+{% set version = "1.8.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pytest-verbose-parametrize-{{ version }}.tar.gz
-  sha256: b85b374a5747607a8e9ffca9732e152859b8e7115bcb10f25c31c60d403146e8
+  sha256: 05dfd556c446159c366b88e196676321f48a6d92ad6465bae69758dd603db0a5
 
 build:
   number: 0
