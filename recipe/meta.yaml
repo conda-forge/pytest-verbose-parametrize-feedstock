@@ -19,6 +19,7 @@ requirements:
   host:
     - pip
     - python >=2.7
+    - setuptools
     - setuptools-git
   run:
     - pytest
